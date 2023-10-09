@@ -8,6 +8,7 @@ Options Pricer est un projet qui fournit une bibliothèque de classes et de mét
 - [Implementation in Main](#implementation-in-main)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Descriptions des fichiers][]((#descriptions-des-fichiers) 
 
 ## Code Structure
 
